@@ -1,2 +1,2 @@
 # vijay-repo1
-learning  purpose 
+learning  purpose only 
